@@ -5,3 +5,4 @@ This paper presents design and analysis of half adder using Finfet technology. A
 # Block Diagram of the Half Adder
 ![Black_Box](https://github.com/user-attachments/assets/5203490a-9025-493f-ba0b-7c7dcce6f265)
 # Half Adder Reference Parameters
+![Screenshot 2024-11-08 233051](https://github.com/user-attachments/assets/102d763b-7fa5-4fae-abbe-1bc98e727ad7)
